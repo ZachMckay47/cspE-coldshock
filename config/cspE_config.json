@@ -1,0 +1,13 @@
+{
+  "fasta": "data/cspE_transcript_fold.fasta",
+  "temp_baseline": 15,
+  "temps_extra": [20, 37],
+  "sd_start": 134,
+  "sd_end": 139,
+  "atg_pos": 146,
+  "protected_regions": [
+    {"name":"SD",  "start":134, "end":139},
+    {"name":"AUG", "start":146, "end":148},
+    {"name":"+1..+5", "start":1, "end":5}
+  ]
+}
