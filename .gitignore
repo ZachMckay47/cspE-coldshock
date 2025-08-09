@@ -1,7 +1,6 @@
-results/*
-!results/.gitkeep
-.vscode/
 __pycache__/
 *.pyc
+.vscode/
 .DS_Store
 Thumbs.db
+# (keep results in the repo)
